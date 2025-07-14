@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Delta-Krnl/loadingscreen/refs/heads/main/visual%20only"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/tAJr8SL4lg/0", true))()
